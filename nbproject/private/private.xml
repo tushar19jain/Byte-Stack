@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/AllFilesTable.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/DownloadFile.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/TokenManager.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/SuccessMessage.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/UplodeFilePage.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/DownloadSuccess.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/FetchPosts.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/FetchUserRealName.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/RegisterLikes.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/MatchUserDetails.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/Insufficient_Information.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/stack/pkgbyte/StackByte.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/InvalidPaaswordOrUsername.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/LoginPage.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/RegisterReport.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/fetchUserOwnedPost.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/userDetailsStructure.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/BanSuccessMessage.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/PostStructure.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/NotificationDashboard.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/CreateUser.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/controller/FileUploadPgeController.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/FetchUserDataForTable.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/deleteSuccess.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/ImposeBan.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/BanNotice.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/AllUserTable.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/RegisterPage.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/AdminDashboard.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/DeleteSnippet.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/updateNotificationCount.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/controller/DatabaseController.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/FetchFilesDataForTable.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/FetchReportedUserData.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/Dashboard.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/view/FileUploadSuccess.java</file>
+            <file>file:/C:/Users/jaint/OneDrive/Documents/NetBeansProjects/Byte%20Stack/src/model/FetchAdminAnalytics.java</file>
+        </group>
+    </open-files>
+</project-private>
